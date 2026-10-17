@@ -1,0 +1,10 @@
+artifact_id,artifact_name,gallery_id,gallery_name,treatment_hours,report_id,reported_on,risk_score,condition,priority,action
+AR-10,Lunar Bowl,GL-ARCH,Archive Hall,4,RP-201,2026-02-03,80,CRACKED,NORMAL,DEFERRED
+AR-11,Copper Map,GL-ARCH,Archive Hall,3,RP-202,2026-02-04,90,STABLE,URGENT,SCHEDULED
+AR-12,Reed Screen,GL-RIVER,River Gallery,2,RP-204,2026-02-05,42,FRAGILE,NORMAL,MONITOR
+AR-13,Tidal Lens,GL-RIVER,River Gallery,5,RP-205,2026-02-01,75,CRACKED,NORMAL,DEFERRED
+AR-14,Sable Mask,GL-ATLAS,Atlas Room,3,RP-206,2026-02-02,85,STABLE,URGENT,SCHEDULED
+AR-15,Glass Astrolabe,GL-ATLAS,Atlas Room,4,RP-207,2026-02-06,70,CRACKED,NORMAL,DEFERRED
+AR-16,Cedar Figure,GL-ATLAS,Atlas Room,2,RP-208,2026-02-07,45,STABLE,NORMAL,ROUTINE
+AR-17,Ink Folio,GL-RIVER,River Gallery,3,,,,,,NO_REPORT
+AR-18,Stone Weight,GL-ARCH,Archive Hall,1,RP-215,2026-02-14,50,STABLE,NORMAL,ROUTINE

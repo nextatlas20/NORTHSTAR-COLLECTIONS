@@ -1,0 +1,4 @@
+gallery_id,gallery_name,treatment_hour_budget,total_artifacts,routine_artifacts,monitor_artifacts,scheduled_artifacts,deferred_artifacts,no_report_artifacts,scheduled_hours,remaining_hours
+GL-ARCH,Archive Hall,6,3,1,0,1,1,0,3,3
+GL-ATLAS,Atlas Room,5,3,1,0,1,1,0,3,2
+GL-RIVER,River Gallery,4,3,0,1,0,1,1,0,4
